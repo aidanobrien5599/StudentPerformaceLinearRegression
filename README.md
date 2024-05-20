@@ -1,2 +1,1 @@
-# df
-helko
+The following as a notebook I put together analyzing a data set of student performancy along with various fields. The goal of the notebook is to be able to predict the final grade of a student using a linear regression model. Along with this, I provided some of the math behind the linear regression model, and then provided a methodology to iterate through training with random sampling to find a more optomized and accurate model.
